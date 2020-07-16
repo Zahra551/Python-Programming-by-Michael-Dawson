@@ -1,0 +1,19 @@
+
+print("Program 'Game Over' 2.0")
+print("Same", "message", "as before")
+print("Just",
+      "a bit",
+"bigger")
+print("Here", end=" ")
+print("it is...")
+print(
+"""
+ 18
+Python Programming for the Absolute Beginner, Third Edition
+_____ ___ /___|/| / |/ || //|| //|/| ||_/___| //|__/|
+||_|| // ||
+\_____/ /_/ _____ _ / _ \||
+// /_/
+||__| ||||___ |_| |_____|
+|||||| // ||__ ||||||// | __| | |_| | | |/ / | |___ \_____/ |___/ |_____|
+""" )
