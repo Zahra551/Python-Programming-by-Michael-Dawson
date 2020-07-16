@@ -8,8 +8,7 @@ print("Here", end=" ")
 print("it is...")
 print(
 """
- 18
-Python Programming for the Absolute Beginner, Third Edition
+
 _____ ___ /___|/| / |/ || //|| //|/| ||_/___| //|__/|
 ||_|| // ||
 \_____/ /_/ _____ _ / _ \||
